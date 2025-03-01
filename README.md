@@ -2,7 +2,7 @@ Final Project
 
 ## Research-backed modeling and simulation
 
-For your third and final project your goal will be to incorporate what you've learned in labs 7 and 8 to create a model backed up by scientific / empirical data. This includes study cases research work, data accumulated throughout time on a given subject (likely structured in one or multiple datasets), physical phenomena mapped into ideal mathemathical formulas, etc.
+Create a model backed up by scientific / empirical data. This includes study cases research work, data accumulated throughout time on a given subject (likely structured in one or multiple datasets), physical phenomena mapped into ideal mathemathical formulas, etc.
 The two main points of interest for this project are:
 1. Finding your own topic of interest to model and simulate
 2. Extracting meaningful relevant information from reliable resources to set as the core of your model (in contrast to naive assumptions used in the previous two projects).
